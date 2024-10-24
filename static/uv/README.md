@@ -7,8 +7,8 @@ Configure uv for both client-hooking & service worker in `uv.config.js`
 self.__uv$config = {
     bare: '/bare/',
     prefix: '/service/',
-    encodeUrl: Ultraviolet.codec.xor.encode,
-    decodeUrl: Ultraviolet.codec.xor.decode,
+    encodeUrl: uv.codec.xor.encode,
+    decodeUrl: uv.codec.xor.decode,
     handler: '/uv.handler.js',
     bundle: '/uv.bundle.js',
     config: '/uv.config.js',
