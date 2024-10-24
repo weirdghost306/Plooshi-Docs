@@ -1,5 +1,5 @@
 # uv-scripts
-Core Ultraviolet scripts
+Core Uv scripts
 
 # Configuration
 Configure uv for both client-hooking & service worker in `uv.config.js`
