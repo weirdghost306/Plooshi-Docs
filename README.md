@@ -40,7 +40,6 @@ Press the join button to join the server:
 
 ## Features
 
-- Ultraviolet
 - Nice game library
 - Tab Cloaks
 - about:blank cloak
